@@ -8,7 +8,7 @@ const testimonialData: Testimonial[] = [
     name: "Musharof Chy",
     designation: "Founder @TailGrids",
     content:
-      "Our members are so impressed. It's intuitive. It's clean. It's distraction free. If you're building a community.",
+      "Great medical office wonderful and experience from start to finish appreciate Dr Sanjay time`to go over the diagnosis clearly and treatment options was referred over by my general doctor and see why highly recommended to everyone and treatment .",
     image: "/images/testimonials/auth-01.png",
     star: 5,
   },
@@ -17,7 +17,7 @@ const testimonialData: Testimonial[] = [
     name: "Devid Weilium",
     designation: "Founder @UIdeck",
     content:
-      "Our members are so impressed. It's intuitive. It's clean. It's distraction free. If you're building a community.",
+      "Awesome experience from this hospital, I was ill family take me to this hospital, doctor treated me on priority, I was very nervous before treatment but doctor are very kind person, he is treated me very well, I was very happy to take services. Overall experience was good.",
     image: "/images/testimonials/auth-02.png",
     star: 5,
   },
@@ -26,7 +26,7 @@ const testimonialData: Testimonial[] = [
     name: "Lethium Frenci",
     designation: "Founder @Lineicons",
     content:
-      "Our members are so impressed. It's intuitive. It's clean. It's distraction free. If you're building a community.",
+      "All the nursing staff very nice and helpful.They maintain hygiene during the patient care.Excellnt service nd care given to my patient.All staff members are helpfull.They explain well to me about my patient condition nd report. Thanks amcare.",
     image: "/images/testimonials/auth-03.png",
     star: 5,
   },

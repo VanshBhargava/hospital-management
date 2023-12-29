@@ -3,44 +3,44 @@ import { Blog } from "@/types/blog";
 const blogData: Blog[] = [
   {
     id: 1,
-    title: "Best UI components for modern websites",
+    title: "Surgery: where precision meets hope.",
     paragraph:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet dictum neque, laoreet dolor.",
-    image: "/images/blog/blog-01.jpg",
+      "In the intricate world of surgery, precision is not just a skill but a lifeline, weaving together the delicate threads of hope and healing. Each surgical procedure represents a unique journey, where the hands of skilled professionals navigate the complexities of the human body with unwavering determination. Behind every incision lies a healthier future.",
+    image: "/images/blog/surgery.jpg",
     author: {
-      name: "Samuyl Joshi",
+      name: "Prashant Joshi",
       image: "/images/blog/author-01.png",
-      designation: "Graphic Designer",
+      designation: "Surgeon",
     },
-    tags: ["creative"],
+    tags: ["Surgery"],
     publishDate: "2024",
   },
   {
     id: 2,
-    title: "9 simple ways to improve your design skills",
+    title: "What is Anxiety and how to get rid of it?",
     paragraph:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet dictum neque, laoreet dolor.",
-    image: "/images/blog/blog-02.jpg",
+      "Anxiety is a natural response to stress but can become problematic when excessive. To alleviate anxiety, try identifying triggers, practicing relaxation techniques, engaging in regular exercise, maintaining a healthy lifestyle, considering therapy, seeking social support, and, if necessary, consulting a healthcare professional for medication or further guidance.",
+    image: "/images/blog/anxiety.jpg",
     author: {
       name: "Musharof Chy",
       image: "/images/blog/author-02.png",
-      designation: "Content Writer",
+      designation: "Psychiatrist",
     },
-    tags: ["computer"],
+    tags: ["Anxiety"],
     publishDate: "2024",
   },
   {
     id: 3,
-    title: "Tips to quickly improve your coding speed.",
+    title: "Alzheimer's: where memories fade, resilience prevails.",
     paragraph:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet dictum neque, laoreet dolor.",
-    image: "/images/blog/blog-03.jpg",
+      "In the realm of Alzheimer's, the fading echoes of memories are met with an unyielding spirit of resilience. Each moment may slip away, but within the struggle, there emerges a tenacity to embrace the present and champion the pursuit of breakthroughs. In the face of uncertainty those directly affected join hands,for a future where memories are not lost but preserved.",
+    image: "/images/blog/alzhemier disease.jpg",
     author: {
       name: "Lethium Deo",
       image: "/images/blog/author-03.png",
-      designation: "Graphic Designer",
+      designation: "Psychologist",
     },
-    tags: ["design"],
+    tags: ["Alzhemier Disease"],
     publishDate: "2024",
   },
 ];

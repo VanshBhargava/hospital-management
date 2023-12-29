@@ -11,8 +11,8 @@ const Pricing = () => {
     <section id="pricing" className="relative z-10 py-16 md:py-20 lg:py-28">
       <div className="container">
         <SectionTitle
-          title="Simple and Affordable Pricing"
-          paragraph="There are many variations of passages of Lorem Ipsum available but the majority have suffered alteration in some form."
+          title="Health Care & Protection Plans"
+          paragraph="Health care plans provide financial and preventive support, including insurance, wellness programs, and preventive care, ensuring individuals manage medical costs and maintain well-being."
           center
           width="665px"
         />
@@ -65,40 +65,40 @@ const Pricing = () => {
             packageName="Lite"
             price={isMonthly ? "40" : "120"}
             duration={isMonthly ? "mo" : "yr"}
-            subtitle="Lorem ipsum dolor sit amet adiscing elit Mauris egestas enim."
+            subtitle="Essential consultations and basic tests, ensuring prompt medical attention."
           >
-            <OfferList text="All UI Components" status="active" />
-            <OfferList text="Use with Unlimited Projects" status="active" />
-            <OfferList text="Commercial Use" status="active" />
-            <OfferList text="Email Support" status="active" />
-            <OfferList text="Lifetime Access" status="inactive" />
-            <OfferList text="Free Lifetime Updates" status="inactive" />
+            <OfferList text="Essential Consultations" status="active" />
+            <OfferList text="Outpatient Procedures" status="active" />
+            <OfferList text="Limited Diagnostic Tests" status="active" />
+            <OfferList text="Emergency Room Coverage" status="active" />
+            <OfferList text="Telehealth Services" status="inactive" />
+            <OfferList text="Basic Health Check-ups" status="inactive" />
           </PricingBox>
           <PricingBox
             packageName="Basic"
             price={isMonthly ? "399" : "789"}
             duration={isMonthly ? "mo" : "yr"}
-            subtitle="Lorem ipsum dolor sit amet adiscing elit Mauris egestas enim."
+            subtitle="Comprehensive consultations, hospitalization, and prescription coverage."
           >
-            <OfferList text="All UI Components" status="active" />
-            <OfferList text="Use with Unlimited Projects" status="active" />
-            <OfferList text="Commercial Use" status="active" />
-            <OfferList text="Email Support" status="active" />
-            <OfferList text="Lifetime Access" status="active" />
-            <OfferList text="Free Lifetime Updates" status="inactive" />
+            <OfferList text="Comprehensive Consultations" status="active" />
+            <OfferList text="Diagnostic Test Coverage" status="active" />
+            <OfferList text="Hospitalization Benefits" status="active" />
+            <OfferList text="Prescription Medication Assistance" status="active" />
+            <OfferList text="Telemedicine Services" status="active" />
+            <OfferList text="Enhanced Wellness Programs" status="inactive" />
           </PricingBox>
           <PricingBox
             packageName="Plus"
             price={isMonthly ? "589" : "999"}
             duration={isMonthly ? "mo" : "yr"}
-            subtitle="Lorem ipsum dolor sit amet adiscing elit Mauris egestas enim."
+            subtitle="Specialist consultations, advanced diagnostics, major surgery, and VIP services."
           >
-            <OfferList text="All UI Components" status="active" />
-            <OfferList text="Use with Unlimited Projects" status="active" />
-            <OfferList text="Commercial Use" status="active" />
-            <OfferList text="Email Support" status="active" />
-            <OfferList text="Lifetime Access" status="active" />
-            <OfferList text="Free Lifetime Updates" status="active" />
+            <OfferList text="Specialist Consultations" status="active" />
+            <OfferList text="Advanced Diagnostic Tests" status="active" />
+            <OfferList text="Major Surgical Procedures" status="active" />
+            <OfferList text="Prescription Medication Coverage" status="active" />
+            <OfferList text="VIP Hospital Services" status="active" />
+            <OfferList text="Premium Wellness Initiatives" status="active" />
           </PricingBox>
         </div>
       </div>

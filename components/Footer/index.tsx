@@ -30,8 +30,8 @@ const Footer = () => {
                   />
                 </Link>
                 <p className="dark:text-body-color-dark mb-9 text-base leading-relaxed text-body-color">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                  Integer lobortis.
+                Compassionate Care, Trusted Healing: Your Health, Our Priority
+
                 </p>
                 <div className="flex items-center">
                   <a
@@ -49,7 +49,7 @@ const Footer = () => {
                     </svg>
                   </a>
                   <a
-                    href="/"
+                    href="twitter.com/vanshhh_______"
                     aria-label="social-link"
                     className="dark:text-body-color-dark mr-6 text-body-color duration-300 hover:text-primary dark:hover:text-primary"
                   >
@@ -77,7 +77,7 @@ const Footer = () => {
                     </svg>
                   </a>
                   <a
-                    href="/"
+                    href="https://www.linkedin.com/in/vansh-bhargava-304036219/"
                     aria-label="social-link"
                     className="dark:text-body-color-dark text-body-color duration-300 hover:text-primary dark:hover:text-primary"
                   >

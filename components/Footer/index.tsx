@@ -201,7 +201,7 @@ const Footer = () => {
           <div className="py-8">
             <p className="text-center text-base text-body-color dark:text-white">
               Made by Vansh{" "}
-              <a href="https://nextjstemplates.com" rel="nofollow noopener">
+              <a href="https://www.linkedin.com/in/vansh-bhargava-304036219/" rel="nofollow noopener">
                 Bhargava
               </a>
             </p>

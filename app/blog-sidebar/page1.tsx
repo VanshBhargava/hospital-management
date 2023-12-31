@@ -21,7 +21,7 @@ const BlogSidebarPage = () => {
             <div className="w-full px-4 lg:w-8/12">
               <div>
                 <h1 className="mb-8 text-3xl font-bold leading-tight text-black dark:text-white sm:text-4xl sm:leading-tight">
-                Surgery: where precision meets hope.
+                What is Anxiety and how to get rid of it?
                 </h1>
                 <div className="mb-10 flex flex-wrap items-center justify-between border-b border-body-color border-opacity-10 pb-4 dark:border-white dark:border-opacity-10">
                   <div className="flex flex-wrap items-center">
@@ -29,7 +29,7 @@ const BlogSidebarPage = () => {
                       <div className="mr-4">
                         <div className="relative h-10 w-10 overflow-hidden rounded-full">
                           <Image
-                            src="/images/blog/author-01.png"
+                            src="/images/blog/author-02.png"
                             alt="author"
                             fill
                           />
@@ -37,7 +37,7 @@ const BlogSidebarPage = () => {
                       </div>
                       <div className="w-full">
                         <span className="mb-1 text-base font-medium text-body-color">
-                          By <span> Prashant Joshi</span>
+                          By <span> Musharof Chy</span>
                         </span>
                       </div>
                     </div>
@@ -99,18 +99,18 @@ const BlogSidebarPage = () => {
                       href="#0"
                       className="inline-flex items-center justify-center rounded-full bg-primary px-4 py-2 text-sm font-semibold text-white"
                     >
-                      Surgery
+                      Anxiety
                     </a>
                   </div>
                 </div>
                 <div>
                   <p className="mb-10 text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
-                  In the intricate world of surgery, precision is not just a skill but a lifeline, weaving together the delicate threads of hope and healing. Each surgical procedure represents a unique journey, where the hands of skilled professionals navigate the complexities of the human body with unwavering determination. Behind every incision lies a healthier future.
+                  Anxiety is a common and natural human response to stress or perceived threats. While it's normal to feel anxious in certain situations, chronic and excessive anxiety can significantly impact one's quality of life. In this blog post, we'll explore what anxiety is, its various manifestations, and effective strategies to manage and alleviate it.
                   </p>
                   <div className="mb-10 w-full overflow-hidden rounded">
                     <div className="relative aspect-[97/60] w-full sm:aspect-[97/44]">
                       <Image
-                        src="/images/blog/surgery.jpg"
+                        src="/images/blog/anxiety.jpg"
                         alt="image"
                         fill
                         className="h-full w-full object-cover object-center"
@@ -118,30 +118,30 @@ const BlogSidebarPage = () => {
                     </div>
                   </div>
                   <p className="mb-8 text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
-                  Surgery is a remarkable intersection of precision and hope, where the delicate hands of skilled surgeons navigate the intricacies of the human body with remarkable accuracy. The precision in surgical procedures is a testament to the advancements in medical technology and the meticulous training of surgeons. From minimally invasive techniques to robotic-assisted surgeries, the field has evolved to minimize invasiveness while maximizing accuracy. Surgeons rely on cutting-edge tools such as high-resolution imaging, precision instruments, and computer-assisted navigation systems to perform intricate procedures with unparalleled precision. The meticulous planning and execution involved in surgery reflect a commitment to excellence, as surgeons strive to optimize outcomes and minimize risks for their patients.
+                  Anxiety is a complex emotional state characterized by feelings of uneasiness, worry, and fear. It can manifest both physically and mentally, leading to symptoms such as increased heart rate, muscle tension, restlessness, and difficulty concentrating. Anxiety disorders, including generalized anxiety disorder (GAD), panic disorder, social anxiety disorder, and phobias, are more severe and persistent forms of anxiety that may require professional intervention.
                   </p>
                   <p className="mb-10 text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
-                  Yet, beyond the precision lies the profound element of hope. For patients, undergoing surgery often represents a pivotal moment where the trajectory of their health can be altered for the better. Whether it's a life-saving procedure or an intervention to improve quality of life, surgery embodies the promise of healing and recovery. Patients entrust their well-being to the hands of skilled professionals, hoping for a positive outcome that will enable them to regain health and normalcy. The amalgamation of precision and hope in surgery underscores the profound impact that medical interventions can have on individuals' lives, offering a beacon of optimism in the face of health challenges. In this delicate dance between skillful precision and the anticipation of positive change, surgery emerges as a powerful force in the pursuit of well-being and healing.
+                  Anxiety is a common human experience, and while complete elimination may not be possible, effective management strategies can significantly improve one's well-being. By incorporating mindfulness, maintaining a healthy lifestyle, and seeking support when needed, individuals can regain control over their lives and minimize the impact of anxiety. Remember, it's okay to ask for help, and taking proactive steps to manage anxiety is a courageous and empowering choice.
                   </p>
                   <h3 className="font-xl mb-10 font-bold leading-tight text-black dark:text-white sm:text-2xl sm:leading-tight lg:text-xl lg:leading-tight xl:text-2xl xl:leading-tight">
-                  Surgical Innovation: Transforming Precision into Lifelong Hope
+                  Navigating the Waves: Building Resilience in the Face of Anxiety
                   </h3>
                   <p className="mb-10 text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
-                  In the realm of modern medicine, surgical innovation stands at the forefront, seamlessly transforming precision into a beacon of lifelong hope. The landscape of surgery has witnessed an unprecedented evolution, marked by cutting-edge technologies and refined techniques that epitomize the delicate balance between meticulous skill and the promise of positive outcomes. This evolution is not just about surgical prowess but encompasses a broader spectrum of advancements that redefine the boundaries of medical possibilities.
+                  In the unpredictable seas of life, anxiety can often feel like a relentless storm, threatening to capsize our sense of well-being. However, within the tumultuous waves lie opportunities for growth, resilience, and self-discovery. In this section, we will explore strategies and insights to empower individuals in building resilience as they navigate the challenges posed by anxiety.
                   </p>
                   <ul className="mb-10 list-inside list-disc text-body-color">
                     <li className="mb-2 text-base font-medium text-body-color sm:text-lg lg:text-base xl:text-lg">
-                    Technological Precision                    </li>
+                    Embracing Uncertainty                    </li>
                     <li className="mb-2 text-base font-medium text-body-color sm:text-lg lg:text-base xl:text-lg">
-                    Minimally Invasive Approaches                    </li>
+                    Cultivating Mindfulness                    </li>
                     <li className="mb-2 text-base font-medium text-body-color sm:text-lg lg:text-base xl:text-lg">
-                    Hope in Diagnosis to Recovery                    </li>
+                    Building a Support System                    </li>
                     <li className="mb-2 text-base font-medium text-body-color sm:text-lg lg:text-base xl:text-lg">
-                    Architects of Hope                    </li>
+                    Harnessing the Power of Self-Care                    </li>
                   </ul>
                   <div className="relative z-10 mb-10 overflow-hidden rounded-md bg-primary bg-opacity-10 p-8 md:p-9 lg:p-8 xl:p-9">
                     <p className="text-center text-base font-medium italic text-body-color">
-                    The journey from diagnosis to surgery is a profound narrative of hope, as patients entrust their well-being to the hands of skilled surgeons. Whether it's a life-saving operation or a procedure to enhance the quality of life, surgical innovation is instrumental in turning the tides of health challenges. Patients embark on this transformative journey with the belief that precision in surgery is not just a technical aspect but a conduit to a future free from ailments and limitations.
+                    Resilience is not about avoiding challenges but about learning and growing through them. Every setback and hardship presents an opportunity for personal development. By reframing difficulties as learning experiences, individuals can transform adversity into a source of strength. Acknowledging the lessons within challenges empowers individuals to approach future uncertainties with newfound wisdom.
                     </p>
                     <span className="absolute left-0 top-0 z-[-1]">
                       <svg
@@ -291,7 +291,7 @@ const BlogSidebarPage = () => {
                         Popular Tags :
                       </h4>
                       <div className="flex items-center">
-                        <TagButton text="Surgery" />
+                        <TagButton text="Anxiety" />
                         <TagButton text="Doctorate" />
                         <TagButton text="Help" />
                       </div>
@@ -350,7 +350,7 @@ const BlogSidebarPage = () => {
                   </li>
                   <li className="mb-6 border-b border-body-color border-opacity-10 pb-6 dark:border-white dark:border-opacity-10">
                     <RelatedPost
-                      title="Mental Health is very important"
+                      title="Surgery: where precision meets hope."
                       image="/images/blog/post-02.jpg"
                       slug="#"
                       date="15 Feb, 2024"
@@ -358,7 +358,7 @@ const BlogSidebarPage = () => {
                   </li>
                   <li>
                     <RelatedPost
-                      title="What is Anxiety and how to get rid of it?"
+                      title="Mental Health is very important"
                       image="/images/blog/post-03.jpg"
                       slug="#"
                       date="05 Jun, 2024"
@@ -376,7 +376,7 @@ const BlogSidebarPage = () => {
                       href="#0"
                       className="mb-3 inline-block text-base font-medium text-body-color hover:text-primary"
                     >
-                      Surgery
+                      Anxiety
                     </a>
                   </li>
                   <li>
@@ -384,7 +384,7 @@ const BlogSidebarPage = () => {
                       href="#0"
                       className="mb-3 inline-block text-base font-medium text-body-color hover:text-primary"
                     >
-                      Anxiety
+                      Mental Health
                     </a>
                   </li>
                   <li>

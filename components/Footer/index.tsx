@@ -102,7 +102,7 @@ const Footer = () => {
                 <ul>
                   <li>
                     <a
-                      href="/blogs"
+                      href="/blog"
                       className="dark:text-body-color-dark mb-4 inline-block text-base text-body-color duration-300 hover:text-primary dark:hover:text-primary"
                     >
                       Blog
@@ -110,7 +110,7 @@ const Footer = () => {
                   </li>
                   <li>
                     <a
-                      href="/pricing"
+                      href="/error"
                       className="dark:text-body-color-dark mb-4 inline-block text-base text-body-color duration-300 hover:text-primary dark:hover:text-primary"
                     >
                       Pricing
@@ -136,7 +136,7 @@ const Footer = () => {
                 <ul>
                   <li>
                     <a
-                      href="/"
+                      href="/error"
                       className="dark:text-body-color-dark mb-4 inline-block text-base text-body-color duration-300 hover:text-primary dark:hover:text-primary"
                     >
                       TOS
@@ -144,7 +144,7 @@ const Footer = () => {
                   </li>
                   <li>
                     <a
-                      href="/"
+                      href="/error"
                       className="dark:text-body-color-dark mb-4 inline-block text-base text-body-color duration-300 hover:text-primary dark:hover:text-primary"
                     >
                       Privacy Policy
@@ -152,7 +152,7 @@ const Footer = () => {
                   </li>
                   <li>
                     <a
-                      href="/"
+                      href="/error"
                       className="dark:text-body-color-dark mb-4 inline-block text-base text-body-color duration-300 hover:text-primary dark:hover:text-primary"
                     >
                       Refund Policy
@@ -178,7 +178,7 @@ const Footer = () => {
                   </li>
                   <li>
                     <a
-                      href="/"
+                      href="/error"
                       className="dark:text-body-color-dark mb-4 inline-block text-base text-body-color duration-300 hover:text-primary dark:hover:text-primary"
                     >
                       Terms of Use

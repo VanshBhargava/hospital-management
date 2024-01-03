@@ -44,7 +44,7 @@ const blogData: Blog[] = [
     },
     tags: ["Alzhemier Disease"],
     publishDate: "2024",
-    link: "/blog-sidebar1",
+    link: "/blog-sidebar2",
   },
 ];
 export default blogData;

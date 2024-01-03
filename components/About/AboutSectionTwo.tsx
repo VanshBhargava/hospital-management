@@ -9,17 +9,24 @@ const AboutSectionTwo = () => {
             <div
               className="wow fadeInUp relative mx-auto mb-12 aspect-[25/24] max-w-[500px] text-center lg:m-0"
               data-wow-delay=".15s"
+              style={{ height: "auto", maxHeight: "400px" }}
             >
               <Image
-                src="/images/about/about-image-2.svg"
+                src="/images/about/aboutimg-1.jpg"
                 alt="about image"
-                fill
+                layout="responsive"
+                objectFit="cover"
+                width={500}
+                height={400}
                 className="drop-shadow-three dark:hidden dark:drop-shadow-none"
               />
               <Image
                 src="/images/about/about-image-2-dark.svg"
                 alt="about image"
-                fill
+                layout="responsive"
+                objectFit="cover"
+                width={500}
+                height={400}
                 className="drop-shadow-three hidden dark:block dark:drop-shadow-none"
               />
             </div>
@@ -28,7 +35,7 @@ const AboutSectionTwo = () => {
             <div className="wow fadeInUp max-w-[470px]" data-wow-delay=".2s">
               <div className="mb-9">
                 <h3 className="mb-4 text-xl font-bold text-black dark:text-white sm:text-2xl lg:text-xl xl:text-2xl">
-                Neurology
+                  Neurology
                 </h3>
                 <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed

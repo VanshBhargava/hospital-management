@@ -1,5 +1,6 @@
 import Link from "next/link";
-
+import "node_modules/react-modal-video/css/modal-video.css";
+import "../../styles/index.css";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {

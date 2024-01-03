@@ -27,7 +27,7 @@ const AboutSectionTwo = () => {
                 objectFit="cover"
                 width={500}
                 height={400}
-                className="drop-shadow-three hidden dark:block dark:drop-shadow-none"
+                className="hidden drop-shadow-three dark:block dark:drop-shadow-none"
               />
             </div>
           </div>
@@ -38,8 +38,9 @@ const AboutSectionTwo = () => {
                   Neurology
                 </h3>
                 <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                  Neurology is the medical specialty dedicated to the diagnosis,
+                  treatment, and understanding of disorders related to the
+                  nervous system.
                 </p>
               </div>
               <div className="mb-9">
@@ -47,8 +48,9 @@ const AboutSectionTwo = () => {
                   Orthopedic
                 </h3>
                 <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt.
+                  Orthopedics is the medical specialty centered on the
+                  diagnosis, treatment of injuries affecting the musculoskeletal
+                  system.
                 </p>
               </div>
               <div className="mb-1">
@@ -56,8 +58,9 @@ const AboutSectionTwo = () => {
                   Cardiology
                 </h3>
                 <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
-                  Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt
-                  consectetur adipiscing elit setim.
+                  Cardiology is the branch of medicine that specializes in the
+                  study, diagnosis, and treatment of disorders related to the
+                  cardiovascular system
                 </p>
               </div>
             </div>

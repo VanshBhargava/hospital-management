@@ -14,6 +14,7 @@ const blogData: Blog[] = [
     },
     tags: ["Surgery"],
     publishDate: "2024",
+    link: "/blog-sidebar",
   },
   {
     id: 2,
@@ -28,6 +29,7 @@ const blogData: Blog[] = [
     },
     tags: ["Anxiety"],
     publishDate: "2024",
+    link: "/blog-sidebar1",
   },
   {
     id: 3,
@@ -42,6 +44,7 @@ const blogData: Blog[] = [
     },
     tags: ["Alzhemier Disease"],
     publishDate: "2024",
+    link: "/blog-sidebar1",
   },
 ];
 export default blogData;
